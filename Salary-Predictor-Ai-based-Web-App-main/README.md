@@ -206,7 +206,7 @@ This project is licensed under the MIT License.
 ## Developer
 
 **Vishwa Prajapati**
-- LinkedIn: [linkedin.com/in/vishwaprajapati](https://linkedin.com/in/vishwaprjapati)
+- LinkedIn: ([https://linkedin.com/in/vishwaprjapati](https://www.linkedin.com/in/vishwaprajapati/))
 - GitHub: [github.com/vishwa-prajapati](https://github.com/vishwa-prajapati)
 
 
